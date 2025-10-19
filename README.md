@@ -69,8 +69,8 @@ Proteins are composed of sequences of amino acids, and their structure plays a c
 ## 🧪 Dataset
 
 -   **Source**: [Kaggle - Protein Dataset](https://www.kaggle.com/datasets/shahir/protein-data-set)
--   **Classes**: 12
--   **Size**: 101592 sequences
+-   **Classes**: 4
+-   **Size**: 33864 sequences
 
 ---
 
